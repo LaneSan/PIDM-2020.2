@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503983254708",
+    "project_id": "mobile-atv6-firestore",
+    "storage_bucket": "mobile-atv6-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503983254708:android:e7774b4397179e790b7be1",
+        "android_client_info": {
+          "package_name": "com.atv06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503983254708-tn9lat501tfhhc8pv2ba1r2l7bfvpjif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK15N3u14x87U5TyLzozifmojFaT8az6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503983254708-tn9lat501tfhhc8pv2ba1r2l7bfvpjif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

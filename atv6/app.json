@@ -1,0 +1,12 @@
+{
+  "name": "atv06",
+  "displayName": "atv06",
+  "expo": {
+    "name": "atv06",
+    "slug": "atv06",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
